@@ -1,2 +1,6 @@
 # CPT_S101
 'git clone <url>'
+git add Resume.pdf
+git commit -m "my resume"
+'git status'
+'git log'
